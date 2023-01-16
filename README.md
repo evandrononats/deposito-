@@ -1,1 +1,5 @@
-# deposito-
+<?php
+
+ECHO "ALO MUNDO";
+
+?>
